@@ -7,45 +7,20 @@ Watch my *[DEMO VIDEOS!]()*
 ## Project Source Codes:
 * [MoveToTheEnd](Mystancodeprojects/problem01/MoveToTheEnd.py)
   * python semantics & syntax
-* [PotholeFilling]()
+* [PotholeFilling](Mystancodeprojects/problem01/PotholeFilling.py)
   * python semantics & syntax
-* [StepUp]()
+* [StepUp](Mystancodeprojects/problem01/StepUp.py)
   * python semantics & syntax
-* [BeeperRow]()
+* [BeeperRow](Mystancodeprojects/problem02/BeeperRow.py)
   * python semantics & syntax  
-* [BeeperRowAdv]()
+* [BeeperRowAdv](Mystancodeprojects/problem02/BeeperRowAdv.py)
   * python semantics & syntax 
-* [DoubleBeepers]()
+* [InfiniteLoop](Mystancodeprojects/problem02/InfiniteLoop.py)
   * python semantics & syntax 
-* [InfiniteLoop]()
-  * python semantics & syntax
-* [MoveToTheEnd]()
-  * python semantics & syntax  
-* [Steeplechase]()
+* [Steeplechase](Mystancodeprojects/problem02/Steeplechase.py)
   * python semantics & syntax 
 
-[Uploading MoveToTheEnd.py…]()"""
-File: MoveToTheEnd.py
-Name: TODO:
-------------------------
-This file shows how to use while loop
-to walk to the end of a certain row in
-karel world
-"""
 
-from karel.stanfordkarel import *
-
-
-def main():
-    """
-    TODO:
-    """
-    pass
-
-
-# ----- DO NOT MODIFY CODE BELOW THIS LINE ----- #
-if __name__ == '__main__':
-    execute_karel_task(main)
 
 
 
